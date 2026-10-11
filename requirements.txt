@@ -1,0 +1,9 @@
+torch
+sentence-transformers
+pinecone
+psycopg[binary]
+python-dotenv
+pandas
+fastapi
+uvicorn
+ollama
